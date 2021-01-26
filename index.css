@@ -1,0 +1,54 @@
+       body {
+                background-color: rgb(226 226 226 / 83%);
+                font-family: cursive;
+}
+
+
+            .container {
+    background-color: #d6d4d4eb;
+       width: 203px;
+    height: 384px;
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 67px;
+    flex-wrap: wrap;
+    box-shadow: inset -5px 2px 4px 2px rgb(255 246 246 / 87%), inset 5px 3px 10px 1px #171616cc;;
+}
+
+         .container h3 {
+                font-size: large;
+                margin: 20px;
+            }
+
+            #joke {
+                display: block;
+                margin: 9px 23px 0px 23px;
+                height: 70%;
+                font-size: large;
+                flex-basis: 53%;
+
+            }
+
+            .btn {
+             display: block;
+               margin: auto;
+    background-color: rgb(4, 5, 5);
+    border-radius: 50%;
+    letter-spacing: 2px;
+    padding: 17px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+            }
+            .btn:active{
+                border: none;
+            }
+            .iphone{
+                border: 2px solid #ebe6de;
+                padding: 6px;
+                border-radius: 10%;
+
+            }
